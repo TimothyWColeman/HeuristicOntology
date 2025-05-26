@@ -18,7 +18,7 @@ The Heuristic Ontology provides a formal semantic framework for representing heu
 
 The Heuristic Ontology models cognitive heuristics as Directive Information Content Entities (DICE), enabling formal representation of decision-making under constraints such as time pressure, incomplete data, or limited computational capacity. It organizes heuristics into four cognitive families—Decision Simplification, Exploratory, Social, and Temporal—each with specific subclasses (e.g., Availability Heuristic, Social Proof Heuristic). This version enhances support for medical triage applications, adding new properties, classes, instances, and reasoning constraints to model scenarios like the Simple Triage and Rapid Treatment (START) protocol.
 
-Developed by researchers at SUNY University at Buffalo and the National Center for Ontological Research, and the ontology bridges cognitive science, behavioral economics, and applied AI. It supports use cases in medical triage, cognitive modeling, decision-support systems, and knowledge graph integration.
+Developed by researchers at SUNY University at Buffalo and the National Center for Ontological Research, the ontology bridges cognitive science, behavioral economics, and applied AI. It supports use cases in medical triage, cognitive modeling, decision-support systems, and knowledge graph integration.
 
 ## Version Information
 
