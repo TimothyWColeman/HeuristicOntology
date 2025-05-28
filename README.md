@@ -154,8 +154,8 @@ This ontology is licensed under the Creative Commons Attribution 4.0 Internation
 ## Contact and Credits
 
 - **Contributors**:
-  - Timothy W. Coleman (timothywcoleman@gmail.com)
-  - John H Bittner II (john.h.bittner@gmail.com)
+  - Timothy W. Coleman
+  - John H Bittner II
 - **Affiliations**: SUNY University at Buffalo, National Center for Ontological Research
 - **Reference**: Coleman, T. W., Beverley, J., & Bittner, J. H. (2025). *Formalizing Heuristics: Cognitive Strategies for Decisions Under Constraint*.
 - **Contact**: Open an issue or email the contributors for inquiries.
